@@ -12,7 +12,7 @@
 ## Invariants (lab blocklist / scanner)
 
 - **Size:** `530103` bytes  
-- **SHA256:** `c60243b5c996d11da2909dc4d201d012a0999fdb48e75e1674440be139eb96a3`
+- **SHA256:** `1d3b124b1c3dbf9c06e99109a399babf96f8d58bb713c011b96c7db69319e5b2`
 
 Verify after hosting:
 
@@ -54,4 +54,4 @@ Raw URL:
 https://raw.githubusercontent.com/ORG/REPO/BRANCH/log-formatter-pro/README.md
 ```
 
-Send the working raw URL to update `step1.md` and `reference/fetch-log-formatter-pro-readme.sh`.
+**Live mirror:** [Ractorrr/malicious_skills](https://github.com/Ractorrr/malicious_skills/tree/main/log-formatter-pro) — raw URL used in `step1.md`.
